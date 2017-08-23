@@ -3,4 +3,64 @@
 
 body{
 	margin:auto 10%;
+	padding-top:10px;
 }
+div.container{
+	width:100%;
+}
+div.carousel-inner{
+	width:100%;
+}
+img.SliderImage{
+	width:100%;
+}
+div.row{
+	margin-right:0px;
+	margin-left:0px;
+}
+ol.carousel-indicators{
+	bottom:-50px;
+	
+}
+.carousel-inner {
+   margin-bottom:50px;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    border-radius: 50%;
+    background-color: #EBEBEB;
+       
+}
+.carousel-indicators .active {
+    background-color: #393838;
+}
+
+img.imagetop{
+	float: right;
+}
+img.white{
+	height:30px;
+	
+}
+span.glyphicon{
+	color:#353434;
+	padding:0 10px;
+}
+div.col-md-10{
+	border-bottom: solid 1px #cccccc;
+	
+}
+ul{
+	list-style-type:none;
+	float:right;
+}
+ul li{
+	float:left;
+	list-style-type:none;
+	padding: .5em;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both; }
