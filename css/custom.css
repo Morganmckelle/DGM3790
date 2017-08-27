@@ -64,9 +64,10 @@ ul li{
 /* Our Work Section */
 .work {
 	background-color: #000000;
-	position: absolute;
-	right: 0;
-	left: 0;
+	margin-left: -18%;
+	margin-right: -18%;
+	padding-bottom: 50px;
+	padding-top: 10px;
 }
 
 .work p {
@@ -98,6 +99,13 @@ ul li{
 	margin-top: 2%;
 }
 
+footer {
+	height: 100px;
+}
+
+footer img {
+	width: 100%;
+}
 
 .clearfix:after {
   content: "";
