@@ -60,6 +60,45 @@ ul li{
 	list-style-type:none;
 	padding: .5em;
 }
+
+/* Our Work Section */
+.work {
+	background-color: #000000;
+	position: absolute;
+	right: 0;
+	left: 0;
+}
+
+.work p {
+	margin-right: 12%;		
+	margin-left: 12%;
+	color: white;
+}
+
+.work h3 {
+	margin-right: 12%;		
+	margin-left: 12%;
+	color: white;
+}
+
+.work ul {
+	margin-left: 17%;
+	float: none;
+}
+
+.work ul li {
+	color: white;
+	float: none;
+	padding: 0;
+}
+
+.blacklogo {
+	float: right;
+	margin-right: 15%;
+	margin-top: 2%;
+}
+
+
 .clearfix:after {
   content: "";
   display: table;
