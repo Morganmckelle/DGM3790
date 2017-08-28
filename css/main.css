@@ -12,7 +12,7 @@
       	.pricing
       	{
       		width: 100%;
-			margin-top:35px;
+			margin-top:5px;
       	}
 		  .eric-imgna-container
 		  {
@@ -40,6 +40,7 @@
 			  border: outset;
 			  text-align: center;
 			  margin: 0 auto;
+			  background-color: white;
 		  }
 		  .eric-ad-bottom
 		  {
@@ -52,11 +53,16 @@ bottom: 0;
 		  
 		  .eric-see-pricing
 		  {
+			  
 			  max-width: 225px;
 			  width: 100%
 		  }
 
-
+body
+{
+	background-image: url("../img/background.png");
+	background-size: cover;
+}
 
 
 
