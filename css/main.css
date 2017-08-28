@@ -3,7 +3,58 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+   
+   
+   /* ==========================================================================
+   Eric's custom styles
+   ========================================================================== */
 
+      	.pricing
+      	{
+      		width: 100%;
+			margin-top:35px;
+      	}
+		  .eric-imgna-container
+		  {
+		  }
+		  .eric-imgna
+		  {
+			  width: 100%;
+			  max-width: 188px;
+			  border: outset;
+		  }
+	  .seo-style
+	  {
+		  color:#0077d1;
+		  font-size: 115%;
+		  font-weight:550;
+	  }
+		  .eric-ad
+		  {
+			  color:#888888;
+		  	font-size: 80%;
+		  	font-weight:550;
+			  width: 100%;
+			  max-width: 237px;
+			  min-height: 380px;
+			  border: outset;
+			  text-align: center;
+			  margin: 0 auto;
+		  }
+		  .eric-ad-bottom
+		  {
+			  text-align: center;
+			  margin: 0 auto;
+			  position: absolute; 
+bottom: 0;
+			  padding-right: 5px;
+		  }
+		  
+		  .eric-see-pricing
+		  {
+			  max-width: 225px;
+			  width: 100%
+		  }
 
 
 
